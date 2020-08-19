@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Marcin",
+            "lastname": "Warzybok",
+            "age": 20,
+            "email": "marcinwarzybok@outlook.com"
+        }
+    ]
+}
