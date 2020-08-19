@@ -6,6 +6,27 @@
             "lastname": "Warzybok",
             "age": 20,
             "email": "marcinwarzybok@outlook.com"
+        },
+        {
+            "id": 2,
+            "name": "Martin",
+            "lastname": "Kowalski",
+            "age": 20,
+            "email": "adsadsads@outlook.com"
+        },
+        {
+            "id": 3,
+            "name": "Jan",
+            "lastname": "Marciniak",
+            "age": 15,
+            "email": "czcc@outlook.com"
+        },
+        {
+            "id": 4,
+            "name": "Marcin",
+            "lastname": "Warzybok",
+            "age": 17,
+            "email": "kkkk@outlook.com"
         }
     ]
 }
