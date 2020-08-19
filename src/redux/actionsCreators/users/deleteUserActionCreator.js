@@ -8,7 +8,7 @@ export function deleteUser(id) {
             url: process.env.REACT_APP_API_HOST + "/users/" + id,
             method: "DELETE"
         }).then((response) => {
-            dispatch(deleteUserSuccess())
+            dispatch(deleteUserSuccess(id))
             return response.data
         }).catch(err => {
             dispatch(deleteUserFailed(err))
